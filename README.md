@@ -1,1 +1,1 @@
-# https://github.com/MortyraSky/rsschool-cv/cv
+# https://mortyrasky.github.io/rsschool-cv/cv
