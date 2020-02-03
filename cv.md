@@ -5,4 +5,4 @@
 5. https://github.com/MortyraSky/myWebSites
 6. Not expierence
 7. Cours in firm Anderson
-8. НАчинающий
+8. Начинающий
