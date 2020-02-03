@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://github.com/MortyraSky/rsschool-cv/cv
