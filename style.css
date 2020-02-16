@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+}
+.cv-content {
+    max-width: 1024px;
+    
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+h3 {
+    font-weight: normal;
+    font-size: 26px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.photo-employee {
+    text-align: center;
+}
